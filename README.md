@@ -1,2 +1,2 @@
 # git-mylearning
-This is learning
+This is learning tutorial
